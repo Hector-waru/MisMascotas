@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisMascotas</string>
+    <string name="inicio_home">Adopcion de Mascotas</string>
+    <string name="boton_p">Perros</string>
+    <string name="boton_g">Gatos</string>
+    <string name="perro_uno">Tranquilo y protector</string>
+    <string name="perro_dos">Bastante energetico</string>
+    <string name="perro_tres">Jugueton y muy activo</string>
+    <string name="perro_cuatro">Siempre activo</string>
+    <string name="gato_uno">Tranquilo y jugueton</string>
+    <string name="gato_dos">Bastante energetico</string>
+    <string name="gato_tres">Jugueton y muy activo</string>
+    <string name="gato_cuatro">Siempre activa</string>
+</resources>

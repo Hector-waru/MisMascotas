@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisMascotas</string>
+    <string name="inicio_home">Annahme von Haustieren</string>
+    <string name="boton_p">Hunden</string>
+    <string name="boton_g">Katzen</string>
+    <string name="perro_uno">Ruhig und schutzend</string>
+    <string name="perro_dos">Ziemglich energisch</string>
+    <string name="perro_tres">Verspielt und sehr aktiv</string>
+    <string name="perro_cuatro">Immer aktiv</string>
+    <string name="gato_uno">Ruhig und schutzend</string>
+    <string name="gato_dos">Ziemglich energisch</string>
+    <string name="gato_tres">Verspielt und sehr aktiv</string>
+    <string name="gato_cuatro">Immer aktiv</string>
+</resources>
