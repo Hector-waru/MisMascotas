@@ -12,4 +12,5 @@
     <string name="gato_dos">Ziemglich energisch</string>
     <string name="gato_tres">Verspielt und sehr aktiv</string>
     <string name="gato_cuatro">Immer aktiv</string>
+    <string name="destacado">Favoriten</string>
 </resources>
