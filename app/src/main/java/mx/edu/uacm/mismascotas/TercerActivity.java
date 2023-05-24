@@ -36,5 +36,6 @@ public class TercerActivity extends AppCompatActivity {
         listMascotas.add(new Mascota("Tocina",R.string.gato_dos,R.mipmap.gato_dos));
         listMascotas.add(new Mascota("Hamburgueso",R.string.gato_tres,R.mipmap.gato_tres));
         listMascotas.add(new Mascota("Mora",R.string.gato_cuatro,R.mipmap.gato_cuatro));
+        listMascotas.add(new Mascota("Leono",R.string.gato_cuatro,R.mipmap.gato_uno));
     }
 }

@@ -61,6 +61,7 @@ public class SegundoActivity extends AppCompatActivity {
         listMascotas.add(new Mascota("Filus",R.string.perro_dos,R.mipmap.perro_dos));
         listMascotas.add(new Mascota("Max",R.string.perro_tres,R.mipmap.perro_tres));
         listMascotas.add(new Mascota("Gul",R.string.perro_cuatro,R.mipmap.perro_cutro));
+        listMascotas.add(new Mascota("Laika",R.string.perro_tres,R.mipmap.perro_uno));
     }
 
 }
