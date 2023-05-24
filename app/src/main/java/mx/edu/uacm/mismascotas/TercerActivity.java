@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import java.util.ArrayList;
 
@@ -14,11 +17,22 @@ public class TercerActivity extends AppCompatActivity {
     /*la referencia a el Recycler*/
     RecyclerView recyclerMascotas;
 
+    Button prueba;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tercer);
-
+//
+        /*boton perros*/
+        prueba = findViewById(R.id.prueba);
+        prueba.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view){
+                Intent p = new Intent(TercerActivity.this,DestacadoActivity.class);
+                startActivity(p);
+            }
+        });
+        //
 
         /*Adicion de elementos*/
         listMascotas=new ArrayList<>();

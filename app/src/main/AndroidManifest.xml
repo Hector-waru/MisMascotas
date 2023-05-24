@@ -13,7 +13,8 @@
         tools:targetApi="31" >
         <activity
             android:name=".DestacadoActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".TercerActivity"
             android:exported="false"
